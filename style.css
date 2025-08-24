@@ -29,5 +29,8 @@ input {
 
 .chip.finalized .remove {
   display: inherit;
-
 }
+
+.text-center {
+  text-align: center;
+} 
